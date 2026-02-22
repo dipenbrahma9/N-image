@@ -1,2 +1,2 @@
-# N-image
+# -image
 https://nerswn.ct.ws
